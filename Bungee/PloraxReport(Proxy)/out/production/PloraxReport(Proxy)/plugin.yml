@@ -1,6 +1,0 @@
-name: PloraxBungeeReport
-author: Hubsau
-version: 1.0
-main: de.hubsau.ploraxreport.Main
-commands:
-  editreport:
